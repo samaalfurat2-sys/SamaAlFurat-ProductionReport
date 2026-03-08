@@ -6,22 +6,19 @@
 
   ## 📱 Download Android APK
 
-  **[Go to Downloads Page](https://github.com/samaalfurat2-sys/SamaAlFurat-ProductionReport/releases/latest)**
-
-  Download the latest `SamaAlFurat-ProductionReport.apk` from the Releases page.
+  **[Download APK](https://214c680f-6ceb-46de-b804-4a5f0c31ded1-00-2rpp38ausq2q.riker.replit.dev/download/apk)**
 
   ### Installation Instructions:
-  1. Go to the [Releases page](https://github.com/samaalfurat2-sys/SamaAlFurat-ProductionReport/releases/latest)
-  2. Download `SamaAlFurat-ProductionReport.apk`
-  3. On your Android phone, go to **Settings → Security** and enable **Install from unknown sources**
-  4. Open the downloaded APK file and tap **Install**
-  5. The app will appear on your home screen as **Production Report**
+  1. Tap the download link above on your Android phone
+  2. On your phone, go to **Settings → Security** and enable **Install from unknown sources**
+  3. Open the downloaded APK file and tap **Install**
+  4. The app will appear on your home screen as **Production Report**
 
   ### Features:
+  - Fully integrated app with embedded frontend
   - Bilingual interface (Arabic / English)
   - Multi-stage approval workflow (Operator → Supervisor → Accountant → Auditor)
   - Inventory tracking with BOM auto-deduction
   - PDF/CSV report generation
-  - Offline-capable frontend bundled in APK
   - Role-based access control
   
